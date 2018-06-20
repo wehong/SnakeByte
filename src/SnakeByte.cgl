@@ -1,0 +1,25 @@
+Functions called:
+ fflush (4 times)
+ delete (11 times)
+ free (7 times)
+ time (1 times)
+ new (11 times)
+ SysReallocMem (59 times)
+ SysFreeMem (1252 times)
+ lstrlenA (1 times)
+ lstrcpynA (4 times)
+ memset (2 times)
+ SysGetMem (1269 times)
+ calloc (1 times)
+ strlen (69 times)
+ realloc (1 times)
+ strdup (1 times)
+ malloc (4 times)
+ memcpy (2 times)
+Resource types used:
+ object (11 allocs, 11 max)
+ memory block (1276 allocs, 491 max)
+Modules used:
+ 00400000 11/27/2002 21:43:48 D:\¹®¼­µé\BCPP
+ Projects\Ver6\SnakeByte\SnakeByte.exe
+==========================================
